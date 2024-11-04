@@ -25,9 +25,9 @@ def q4():
     threePointO = 3.0
     print(sixPointThree/threePointO)
 def q5():
-    hiworld = "hello world"
+    hiworld = "Hello World"
     print(hiworld)
-    hiworld = "goodbye world"
+    hiworld = "Goodbye World"
     print(hiworld)
 def q6():
     fax =  True
@@ -36,6 +36,7 @@ def q7():
     seven = 7
     two = 2
     print(seven%two)
+'''
 q1()
 q2()
 q3()
@@ -43,3 +44,4 @@ q4()
 q5()
 q6()
 q7()
+'''
