@@ -11,7 +11,6 @@ def q1():
     name = "Alex"
     print(name)
 
-
 def q2():
     three = 3
     five = 5
@@ -37,7 +36,7 @@ def q7():
     seven = 7
     two = 2
     print(seven%two)
-'''
+
 q1()
 q2()
 q3()
@@ -45,4 +44,4 @@ q4()
 q5()
 q6()
 q7()
-'''
+
